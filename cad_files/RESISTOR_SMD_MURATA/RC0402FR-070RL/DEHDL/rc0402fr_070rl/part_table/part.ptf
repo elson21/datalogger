@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RC0402FR_070RL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "YAGEO", "RC0402FR-070RL" (!) = "", "RESC1005X40N", "Resistor Chip", "603-RC0402FR-070RL", "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0402FR-070RL?qs=sxZXDnvRBEhfSy4CZGX2ww%3D%3D", "YAGEO - RC0402FR-070RL - RES, 1A, 0.063W, THICK FILM, 0402", "https://www.arrow.com/en/products/rc0402fr-070rl/yageo?region=europe", "0.4 mm"
+END_PART
+
+END.

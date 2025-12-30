@@ -1,0 +1,32 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+USB4216-03-A USB421603A I CON 6 1 0 0 0
+TIMESTAMP 2025.12.03.00.08.59
+"Mouser Part Number" 640-USB4216-03-A
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/GCT/USB4216-03-A?qs=Tc%252BHE9vUsnv1G2UWLFIexA%3D%3D
+"Manufacturer_Name" GCT (GLOBAL CONNECTOR TECHNOLOGY)
+"Manufacturer_Part_Number" USB4216-03-A
+"Description" USB Connectors USB C Receptacle, Short Body, USB2.0, 16Pin, Horizontal, SMT
+"Datasheet Link" 
+GATE 1 16 0
+USB4216-03-A
+A1 0 U GND_1
+A4 0 U VBUS_1
+A5 0 U CC1
+A6 0 U DP1
+A7 0 U DN1
+A8 0 U SBU1
+B1 0 U GND_2
+B4 0 U VBUS_2
+B5 0 U CC2
+B6 0 U DP2
+B7 0 U DN2
+B8 0 U SBU2
+G1 0 U GND_3
+G2 0 U GND_4
+G3 0 U GND_5
+G4 0 U GND_6
+
+*END*
+*REMARK* SamacSys ECAD Model
+20494823/1836760/2.50/16/4/Connector

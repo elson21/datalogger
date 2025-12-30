@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM188Z71A106KA73D
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2023-03-07 08:49:01
+Downloaded=2025-12-02 22:21:34
+3D=Y

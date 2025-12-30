@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USB4216-03-A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-07-29-11:30:38)
+    (mountForm default
+        (footprintRef "USB421603A")
+        (spec "System")
+    )
+)

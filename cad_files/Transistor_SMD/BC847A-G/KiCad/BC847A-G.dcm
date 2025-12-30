@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC847A-G
+D Bipolar Transistors - BJT 6V, 10uA Small Signal Transistor
+K
+F https://www.mouser.dk/datasheet/2/80/BC846W-G Thru850216. BC848W-G RevB-769660.pdf
+$ENDCMP
+#
+#End Doc Library

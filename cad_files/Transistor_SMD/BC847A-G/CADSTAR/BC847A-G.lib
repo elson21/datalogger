@@ -1,0 +1,16 @@
+.BC847A-G :1 ;Bipolar Transistors - BJT 6V, 10uA Small Signal Transistor
+SOT65P230X110-3N
+*STM Q
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN BC847A-G
+~!Mouser Part Number (750-BC847A-G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Comchip-Technology/BC847A-G?qs=XEIV%2Fho1H6dDZKpC3hIA5A%3D%3D)
+~!Manufacturer_Name (Comchip Technology)
+~!Manufacturer_Part_Number (BC847A-G)
+~!Link Datasheet (https://www.mouser.dk/datasheet/2/80/BC846W-G Thru850216. BC848W-G RevB-769660.pdf)
+~!Height (1.1mm)
+~!3D_Model (BC847A-G)
+BC847A-G
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BC847A_G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Comchip Technology", "BC847A-G" (!) = "", "SOT65P230X110-3N", "SOT23 (3-Pin)", "750-BC847A-G", "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/BC847A-G?qs=XEIV%2Fho1H6dDZKpC3hIA5A%3D%3D", "Bipolar Transistors - BJT 6V, 10uA Small Signal Transistor", "https://www.mouser.dk/datasheet/2/80/BC846W-G Thru850216. BC848W-G RevB-769660.pdf", "1.1 mm"
+END_PART
+
+END.
